@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
 ### Hi there 👋
 
 <!--
@@ -14,7 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ddhruv-IOT)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ddhruv-IOT)](https://github.com/anuraghazra/github-readme-stats)
-
+<img  src= "https://github-readme-stats.vercel.app/api?username=Ddhruv-IOT&show_icons=true&theme=radical"/>
+<img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ddhruv-IOT&layout=compact&theme=radical"/>
