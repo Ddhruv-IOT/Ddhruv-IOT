@@ -21,4 +21,4 @@
 <img src="https://img.shields.io/badge/OS-Widows-blue"/> <img src="https://img.shields.io/badge/OS-RHEL8-blue"/> <img src="https://img.shields.io/badge/Cloud-AWS-blue"/>
 
 # Contact Me
-[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/linkedin.png" height=70px width=70px>](https://www.linkedin.com/in/ddhruv-arora-13a868192/)  [<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/instagram.jpg" height=70px width=70px>]("")
+[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/linkedin.png" height=70px width=70px>](https://www.linkedin.com/in/ddhruv-arora-13a868192/)  [<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/instagram.jpg" height=70px width=70px>](https://www.instagram.com/ddhruv.arora/)
