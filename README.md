@@ -10,7 +10,7 @@
 - ⚡ Fun fact:  I cannot live without coding.
 
 ## OVERVIEW
-<img  src= "https://github-readme-stats.vercel.app/api?username=Ddhruv-IOT&show_icons=true&theme=radical"/>
+<img  src= "https://github-readme-stats.vercel.app/api?username=Ddhruv-IOT&show_icons=true&theme=radical&count_private=true"/>
 <img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ddhruv-IOT&layout=compact&theme=radical"/>
 
 ## Technologies & Tools
