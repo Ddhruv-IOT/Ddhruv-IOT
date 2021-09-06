@@ -4,7 +4,7 @@
 ### Hi There <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/wave-hello.gif" height=35px width=35px/>
 
 - 🔭 I’m currently working on IoT Projects.
-- 🌱 I’m currently learning Artificial Intelligence.
+- <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/ai.gif" height=20px width=20px/> I’m currently learning Artificial Intelligence.
 - <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/handshakes.gif" height=22px width=22px/> How to reach me: [contact](#contact-me) 
 - 😄 Pronouns: He, His
 - <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/lightning.gif" height=22px width=22px/> Fun fact: I cannot live without coding.
@@ -22,4 +22,4 @@
 
 # Contact Me <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/handshakes.gif" height=40px width=40px/>
 
-[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/linkedin.png" height=70px width=70px>](https://www.linkedin.com/in/ddhruv-arora-13a868192/)  [<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/instagram.jpg" height=70px width=70px>](https://www.instagram.com/ddhruv.arora/)
+[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/linkedin.png" height=70px width=70px>](https://www.linkedin.com/in/ddhruv-arora-13a868192/)  [<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/ig.gif" height=70px width=70px style="background-color:white;"/>](https://www.instagram.com/ddhruv.arora/)
