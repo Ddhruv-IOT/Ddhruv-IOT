@@ -11,7 +11,7 @@
 
 ## OVERVIEW 
 <img  src= "https://github-readme-stats.vercel.app/api?username=Ddhruv-IOT&show_icons=true&theme=radical&count_private=true"/> <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/star-shine.gif" height=300px width=300px align="right"/><img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/star-shine.gif" height=100px width=100px align="right"/>
-<img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ddhruv-IOT&layout=compact&theme=radical"/> <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/star-shine.gif" height=200px width=200px align="right"/> 
+<img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ddhruv-IOT&layout=compact&theme=radical"/> 
 
 ## Technologies & Tools
 <img src="https://img.shields.io/badge/Code-Python%203-blue"/> <img src="https://img.shields.io/badge/Code-C++-blue"/> <img src="https://img.shields.io/badge/Code-C%20lang-blue"/>
