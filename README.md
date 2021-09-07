@@ -88,10 +88,10 @@
 &nbsp;
 [<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/ig.gif" height=70px width=70px style="background-color:white;"/>](https://www.instagram.com/ddhruv.arora/)
 &nbsp;
-[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/whatsapp.gif" height=70px width=70px style="background-color:white;"/>](https://www.instagram.com/ddhruv.arora/)
+[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/whatsapp.gif" height=70px width=70px style="background-color:white;"/>](https://wa.me/9636349314?text=Hello%20There/)
 &nbsp;
-[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/gmail.gif" height=70px width=70px style="background-color:white;"/>](https://www.instagram.com/ddhruv.arora/)
+[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/gmail.gif" height=70px width=70px style="background-color:white;"/>](mailto:ddhruvarora2@gmail.com)
 &nbsp;
-[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/youtube.gif" height=70px width=70px style="background-color:white;"/>](https://www.instagram.com/ddhruv.arora/)
+[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/youtube.gif" height=70px width=70px style="background-color:white;"/>](https://www.youtube.com/channel/UCfNEoEEy0nKv9P0UBGDcLFg)
 &nbsp;
 <!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ddhruv-IOT)-->
