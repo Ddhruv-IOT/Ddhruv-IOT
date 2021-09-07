@@ -1,5 +1,6 @@
-<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/gif.gif?raw=true" width=100% height=400px />
+# Ddhruv Arora <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/cover.gif" height=35px width=35px/>
 
+<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/gif.gif?raw=true" width=100% height=400px />
 
 ### Hi There <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/wave-hello.gif" height=35px width=35px/>
 
@@ -8,10 +9,14 @@
 - <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/handshakes.gif" height=22px width=22px/> How to reach me: [contact](#) 
 - 😄 Pronouns: He, His
 - <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/lightning.gif" height=22px width=22px/> Fun fact: I cannot live without coding.
+<br/>
 
 ## OVERVIEW 
 <img  src= "https://github-readme-stats.vercel.app/api?username=Ddhruv-IOT&show_icons=true&theme=radical&count_private=true"/> <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/star-shine.gif" height=300px width=300px align="right"/><img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/star-shine.gif" height=100px width=100px align="right"/>
+<br/>
+<br/>
 <img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ddhruv-IOT&layout=compact&theme=radical"/> 
+<br/>
 
 ## Tools & Technologies
 ### Programming Languages
@@ -75,7 +80,12 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 &nbsp;
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+<br/>
 
 # Contact Me <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/handshakes.gif" height=40px width=40px/>
 
-[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/linkedin.png" height=70px width=70px>](https://www.linkedin.com/in/ddhruv-arora-13a868192/)  [<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/ig.gif" height=70px width=70px style="background-color:white;"/>](https://www.instagram.com/ddhruv.arora/)
+[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/linkedin.png" height=70px width=70px>](https://www.linkedin.com/in/ddhruv-arora-13a868192/)
+&nbsp;
+[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/ig.gif" height=70px width=70px style="background-color:white;"/>](https://www.instagram.com/ddhruv.arora/)
+
+<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ddhruv-IOT)-->
