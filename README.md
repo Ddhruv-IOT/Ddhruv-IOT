@@ -84,8 +84,14 @@
 
 # Contact Me <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/handshakes.gif" height=40px width=40px/>
 
-[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/linkedin.png" height=70px width=70px>](https://www.linkedin.com/in/ddhruv-arora-13a868192/)
+[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/li.gif" height=70px width=70px>](https://www.linkedin.com/in/ddhruv-arora-13a868192/)
 &nbsp;
 [<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/ig.gif" height=70px width=70px style="background-color:white;"/>](https://www.instagram.com/ddhruv.arora/)
-
+&nbsp;
+[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/whatsapp.gif" height=70px width=70px style="background-color:white;"/>](https://www.instagram.com/ddhruv.arora/)
+&nbsp;
+[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/gmail.gif" height=70px width=70px style="background-color:white;"/>](https://www.instagram.com/ddhruv.arora/)
+&nbsp;
+[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/youtube.gif" height=70px width=70px style="background-color:white;"/>](https://www.instagram.com/ddhruv.arora/)
+&nbsp;
 <!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ddhruv-IOT)-->
