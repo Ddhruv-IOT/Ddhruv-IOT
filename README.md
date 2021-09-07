@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on IoT Projects.
 - <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/ai.gif" height=20px width=20px/> I’m currently learning Artificial Intelligence.
-- <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/handshakes.gif" height=22px width=22px/> How to reach me: [contact](#) 
+- <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/handshakes.gif" height=22px width=22px/> How to reach me: [contact](#contact) 
 - 😄 Pronouns: He, His
 - <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/lightning.gif" height=22px width=22px/> Fun fact: I cannot live without coding.
 <br/>
@@ -82,7 +82,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 <br/>
 
-# Contact Me <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/handshakes.gif" height=40px width=40px/>
+# Contact Me<a name="contact"> <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/handshakes.gif" height=40px width=40px/>
 
 [<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/li.gif" height=70px width=70px>](https://www.linkedin.com/in/ddhruv-arora-13a868192/)
 &nbsp;
