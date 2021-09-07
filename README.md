@@ -88,7 +88,7 @@
 &nbsp;
 [<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/ig.gif" height=70px width=70px style="background-color:white;"/>](https://www.instagram.com/ddhruv.arora/)
 &nbsp;
-[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/whatsapp.gif" height=70px width=70px style="background-color:white;"/>](https://wa.me/919636349314?text=Hello%20There/)
+[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/whatsapp.gif" height=70px width=70px style="background-color:white;"/>](https://wa.me/919636349314?text=Hello%20There...)
 &nbsp;
 [<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/gmail.gif" height=70px width=70px style="background-color:white;"/>](mailto:ddhruvarora2@gmail.com)
 &nbsp;
