@@ -1,5 +1,5 @@
-# Ddhruv Arora <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/cover.gif" height=35px width=35px/>
-
+# Ddhruv Arora 
+<br/>
 <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/gif.gif?raw=true" width=100% height=400px />
 
 ### Hi There <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/wave-hello.gif" height=35px width=35px/>
