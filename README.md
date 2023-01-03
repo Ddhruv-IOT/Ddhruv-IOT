@@ -98,5 +98,5 @@
 &nbsp;
 <br/>
 <br/>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ddhruv-IOT)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ddhruv-IOT) -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ddhruv-IOT&theme=dark)](https://git.io/streak-stats)- -->
