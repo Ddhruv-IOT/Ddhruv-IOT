@@ -83,16 +83,19 @@
 <br/>
 
 ## GitHub Stats
-### Streak
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ddhruv-IOT&theme=dark" ></p>
-<br/>
 
-### Visitor Count
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ddhruv-IOT)
-
-### Trophies Earned
-<img src="https://github-profile-trophy.vercel.app/?username=ddhruv-IOT">
-
+<div style="display:flex; flex-direction: column; align-items: center;">
+    <div style="display:flex; justify-content:center">
+        <img src="https://github-profile-trophy.vercel.app/?username=ddhruv-IOT&row=2&column=3&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A" height="200">
+        &nbsp;
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ddhruv-IOT&theme=dark" height="200">
+    </div>
+    <br/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Ddhruv-IOT&left_color=blue&right_color=green&left_text=Visitors%20Count&format=true" width="200">
+    &nbsp;
+    <img src="https://img.shields.io/github/followers/ddhruv-iot?color=red&logo=github" width="165">
+    
+</div>
 
 # Contact Me<a name="contact"> <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/handshakes.gif" height=40px width=40px/>
 
