@@ -4,8 +4,8 @@
 
 ### Hi There <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/wave-hello.gif" height=35px width=35px/>
 
-- 🔭 I’m currently working on IoT Projects.
-- <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/ai.gif" height=20px width=20px/> I’m currently learning Artificial Intelligence.
+- 🔭 I’m currently working on DevOps Projects.
+- <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/ai.gif" height=20px width=20px/> I’m currently learning UI designing.
 - <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/handshakes.gif" height=22px width=22px/> How to reach me: [contact](#contact) 
 - 😄 Pronouns: He, His
 - <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/lightning.gif" height=22px width=22px/> Fun fact: I cannot live without coding.
@@ -82,6 +82,18 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 <br/>
 
+## GitHub Stats
+### Streak
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ddhruv-IOT&theme=dark" ></p>
+<br/>
+
+### Visitor Count
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ddhruv-IOT)
+
+### Trophies Earned
+<img src="https://github-profile-trophy.vercel.app/?username=ddhruv-IOT">
+
+
 # Contact Me<a name="contact"> <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/handshakes.gif" height=40px width=40px/>
 
 [<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/li.gif" height=70px width=70px>](https://www.linkedin.com/in/ddhruv-arora-13a868192/)
@@ -98,5 +110,5 @@
 &nbsp;
 <br/>
 <br/>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ddhruv-IOT)
+
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ddhruv-IOT&theme=dark)](https://git.io/streak-stats)- -->
