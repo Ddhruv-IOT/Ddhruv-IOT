@@ -15,7 +15,7 @@
 <img  src= "https://github-readme-stats.vercel.app/api?username=Ddhruv-IOT&show_icons=true&theme=radical&count_private=true"/> <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/star-shine.gif" height=300px width=300px align="right"/><img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/star-shine.gif" height=100px width=100px align="right"/>
 <br/>
 <br/>
-<img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ddhruv-IOT&hide=jupyter%20notebook&langs_count=6&layout=compact&theme=radical"/> 
+<img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ddhruv-IOT&hide=jupyter%20notebook,html,hcl,cmake,assembly&langs_count=6&layout=compact&theme=radical"/> 
 <br/>
 
 ## Tools & Technologies
