@@ -1,8 +1,8 @@
-# Ddhruv Arora 
+# Ddhruv Arora<a href="https://www.linkedin.com/in/ddhruv-arora">
 <br/>
 <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/gif.gif?raw=true" width=100% height=400px />
 
-### Hi There <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/wave-hello.gif" height=35px width=35px/>
+### Hi There <a href="https://www.linkedin.com/in/ddhruv-arora"> <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/wave-hello.gif" height=35px width=35px/>
 
 - 🔭 I’m currently working on DevOps Projects.
 - <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/ai.gif" height=20px width=20px/> I’m currently learning UI designing.
